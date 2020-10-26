@@ -18,3 +18,12 @@ Step3-> Type following command one by one and press enter after typing each comm
         pip install wikipedia
 
 Step4-> Now you are ready to try Oh Toodles.
+
+
+Tasks it can perform:
+# "what is the time"
+# "Search item name" wikipwedia
+# "open youtube"
+# "open google"
+# "play music"
+# "open file"
